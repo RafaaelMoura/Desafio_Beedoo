@@ -1,0 +1,1 @@
+- [Cadastrando um novo curso - FEATURE](https://docs.google.com/document/d/1v9t7fQl4xcGq11qTDfhKTpcHexg7KIPyhrx_LV53Z4o/edit?usp=sharing)

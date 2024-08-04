@@ -1,0 +1,1 @@
+- [Cenário 2: Válido Acesso a Área de Listagem de Cursos - SUCESSO](https://drive.google.com/file/d/1ctOU5vwehfBMA1p9sop30gp1rvi6_kvq/view?usp=sharing)

@@ -1,0 +1,1 @@
+- [Cenário 7: É Invalido Cadastro de Curso Com Todos os Campos Vazios - FALHA](https://drive.google.com/file/d/1LOsMzduQPW2Ypk-Ogq45zVyvthxRSxoD/view?usp=sharing)

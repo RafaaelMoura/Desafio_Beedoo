@@ -1,1 +1,0 @@
-- [scenario7-register-invalid-faeil](https://drive.google.com/file/d/1LOsMzduQPW2Ypk-Ogq45zVyvthxRSxoD/view?usp=sharing)

@@ -3,25 +3,27 @@
 Esse repositório tem como intuito de conhecimentos de análise de teste.
 
 ##  Repositório Composto por
-- [Casos de Teste](#casos-de-teste)
-- [Documentação](#documentação)
-- [Evidências de Teste](#evidências-de-teste)
+- [Casos de Teste](#test-cases)
+- [Documentação](#Docs)
+- [Evidências de Teste](#evidence-links)
 
 ## User Stories
-- [Criação de Novo Curso](#criação-de-um-novo-curso)
-- [Excluir um Curso Criado](#excluir-um-curso-criado)
+- [Criação de Novo Curso](#new-course)
+- [Excluir um Curso Criado](#edelete-couse)
+- [Visualização correta de cursos](#corret-presentation)
 
 
 ## Casos de Teste
 - [Gherkin: Criação de Novo Curso](test-cases/new-course.feature)
-- [Gherkin: Excluir curso criado](test-cases/new-course.feature)
+- [Gherkin: Excluir curso criado](test-cases/delete-course.feature)
+-[Visualização correta de cursos](test-cases/correct-presentation.feature)
 
 
 ## Documentação
-- [Documentação dos Casos de Teste](docs/test-cases-documentation.xlsx)
+- [Documentação dos Casos de Teste](docs-test-cases-documentation)
 
 ## Evidências de Teste
-- [Links para Evidências de Teste](links/test-evidences-links.md)
+- [Links para Evidências de Teste](evidences-link)
 ***
 ### Passo-a-Passo para Execução dos Testes
 

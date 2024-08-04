@@ -1,0 +1,1 @@
+- [Cenário 3: Válido Preenchimento dos Dados do Curso - FALHA](https://drive.google.com/file/d/1OZnyOAEuiNAWrShFZ-SdyUpXt7AB-0mD/view?usp=sharing)

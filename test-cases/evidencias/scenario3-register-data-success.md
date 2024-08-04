@@ -1,1 +1,0 @@
-- [scenario3-register-data-success](https://drive.google.com/file/d/1qQhH8h19ewlkQlfNa8gozS2Km6M4Jcy2/view?usp=sharing)

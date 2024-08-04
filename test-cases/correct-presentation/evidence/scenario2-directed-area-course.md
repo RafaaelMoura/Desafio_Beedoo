@@ -1,0 +1,1 @@
+- [Cenário 2: Válido direcionamento para a área do curso ao clicar no curso. - FALHA](https://drive.google.com/file/d/1awMTGvc_y-eaE74ftlpZpcLkme22GiG_/view?usp=sharing)

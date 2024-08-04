@@ -1,0 +1,1 @@
+- [Cenário 1: Válido acesso ao Formulário de Cadastro do Curso - SUCESSO](https://drive.google.com/file/d/1xJqLfFGFTxfEZDwWTGxRoRhtfGlWv0jy/view?usp=sharing)

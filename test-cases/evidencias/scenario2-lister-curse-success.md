@@ -1,1 +1,0 @@
-- [scenario2-lister-curse-success](https://drive.google.com/file/d/1ctOU5vwehfBMA1p9sop30gp1rvi6_kvq/view?usp=sharing)

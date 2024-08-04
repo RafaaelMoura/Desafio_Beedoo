@@ -1,0 +1,1 @@
+- [Cenário 2: Válido Acesso a Área de Listagem de Cursos - FALHA](https://drive.google.com/file/d/1vebpH0EisKOgkqCf5JKa_XnfBg7nhGIJ/view?usp=sharing)

@@ -1,0 +1,1 @@
+- [ Exclusão de um curso - FEATURE](https://docs.google.com/document/d/1Zb1xBHz4wm4RCMxBxJ_9j2JMSCGu0-NHzDgepxlMNU4/edit?usp=sharing)

@@ -1,0 +1,1 @@
+- [Cenário 1: Válido exibição da lista de cursos corretamente - FALHA](https://drive.google.com/file/d/1CdqyoUd1Oiy0ZSn6u1_QgjapKD7R40Eo/view?usp=sharing)

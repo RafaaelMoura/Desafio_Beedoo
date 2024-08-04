@@ -1,1 +1,0 @@
-- [scenario1-register-curse-success](https://drive.google.com/file/d/1xJqLfFGFTxfEZDwWTGxRoRhtfGlWv0jy/view?usp=sharing)

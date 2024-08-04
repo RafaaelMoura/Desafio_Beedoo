@@ -1,0 +1,1 @@
+ - [Visualização Correta de informações dos Cursos em Listagem de Cursos - FEATURE](https://docs.google.com/document/d/17WRCGygL3ueQvvtD82DV4pMsVj2BVZCagwaT6PMk9xc/edit?usp=sharing)

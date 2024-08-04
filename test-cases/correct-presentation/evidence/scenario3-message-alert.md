@@ -1,0 +1,1 @@
+- [Cenário 3: Exibir mensagem de vagas esgotadas quando não houver mais vagas - FALHA](https://drive.google.com/file/d/1ccomtQvwGG5ADZOETJ-6ljCqCZlSHyu6/view?usp=sharing)
