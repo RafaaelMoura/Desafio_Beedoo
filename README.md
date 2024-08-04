@@ -45,7 +45,7 @@ Execute os testes usando a ferramenta de sua preferência.
 ## Decisões para Criação das User Stories
 
 Foram considerados os seguintes pontos:
-- A necessidade de um administrador poder adicionar novos cursos.
-- Importância de uma interface amigável para a criação de cursos.
+- A necessidade de um usuário administrador poder adicionar novos cursos.
+- Importância de uma interface amigável e fácil para a criação de cursos.
 - Necessidade de validação de dados para garantir informações completas e corretas.
 - Importância de feedback claro sobre o sucesso ou falha na criação do curso.

@@ -10,7 +10,7 @@ Critérios de Aceitação
 Descrição:
 Como: um administrador do sistema,
 Quero: incluir um novo curso na lista,
-Para: que os usuários possam participar dos treinamentos disponíveis na plataforma.
+Para que: os usuários possam participar dos treinamentos disponíveis na plataforma.
 
 
 Features: Cadastrando um novo curso
@@ -29,9 +29,12 @@ Cenário 2: Válido Acesso a Área de Listagem de Cursos.
 
 Cenário 3: Válido Preenchimento dos Dados do Curso.
  - Dado que estou acessando a página com formulário de criação de um novo curso,
- - Quando eu preencho todos os campos obrigatórios (nome do curso, descrição do curso, instrutor, URL da imagem de capa, data de início/fim, número de vagas, tipo de curso)
- - E clico no botão "Cadastrar Curso"
- - Então o curso deve ser criado com sucesso e eu devo ser redirecionado para a página de listagem de cursos.
+ - Quando eu preencho todos os campos obrigatórios
+   -  |Nome do curso | Descrição do curso | Instrutor | URL da imagem de capa | 
+   -  |Data de início | Data de Fim | Número de vagas | Tipo de curso|
+
+  - E clico no botão "Cadastrar Curso"
+  - Então o curso deve ser criado com sucesso e eu devo ser redirecionado para a página de listagem de cursos.
 
 
 Cenário 4: Preenchimento das datas de início e fim do curso através do teclado.

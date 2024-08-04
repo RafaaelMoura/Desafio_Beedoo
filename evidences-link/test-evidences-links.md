@@ -28,7 +28,7 @@
 
  - [Cenário 3: Válido Preenchimento dos Dados do Curso - FALHA](https://drive.google.com/file/d/1OZnyOAEuiNAWrShFZ-SdyUpXt7AB-0mD/view?usp=sharing)
 
-**Visualização Correta de informações dos Cursos em Listagem de Cursos**:
+**Visualização correta de informações dos cursos em listagem de cursos**:
 
 - [Cenário 1: Válido exibição da lista de cursos corretamente - FALHA](https://drive.google.com/file/d/1CdqyoUd1Oiy0ZSn6u1_QgjapKD7R40Eo/view?usp=sharing)
 
