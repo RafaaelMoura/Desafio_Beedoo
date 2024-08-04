@@ -1,3 +1,5 @@
+ Cadastrando um novo curso:
+
 - [scenario1-register-curse-success](https://drive.google.com/file/d/1xJqLfFGFTxfEZDwWTGxRoRhtfGlWv0jy/view?usp=sharing)
 - [scenario2-lister-curse-success](https://drive.google.com/file/d/1ctOU5vwehfBMA1p9sop30gp1rvi6_kvq/view?usp=sharing)
 - [scenario3-register-data-success](https://drive.google.com/file/d/1qQhH8h19ewlkQlfNa8gozS2Km6M4Jcy2/view?usp=sharing)
@@ -5,3 +7,6 @@
 - [scenario5-field-mandatory-faeil](https://drive.google.com/file/d/1jil4sKcxsimhP2c2jofGYJbJL2LNRwYQ/view?usp=sharing)
 - [scenario6-register-field-faeil](https://drive.google.com/file/d/1soj1XsLdfTGglokSwZZkJ0pGtepZUvP-/view?usp=sharing)
 - [scenario7-register-invalid-faeil](https://drive.google.com/file/d/1LOsMzduQPW2Ypk-Ogq45zVyvthxRSxoD/view?usp=sharing)
+
+
+

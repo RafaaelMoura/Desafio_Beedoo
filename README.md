@@ -22,17 +22,27 @@ Esse repositório tem como intuito de conhecimentos de análise de teste.
 
 ## Evidências de Teste
 - [Links para Evidências de Teste](links/test-evidences-links.md)
+***
+### Passo-a-Passo para Execução dos Testes
 
-**Critérios de Aceitação**
-<br/>*Criação de um Novo Curso no Beedoo*
-<br/>*Cursos Adicionados Estão Corretamente Apresentados*
-<br/>*Acesso a Área de Listagem de Cursos*
-<br/>*Excluir Curso*
+#### 1. Preparar o Ambiente
+Certifique-se de que você tenha um ambiente de testes configurado com as ferramentas necessárias para executar testes em Gherkin.
 
+#### 2. Clonar o Repositório
+Clone o repositório do GitHub para o seu ambiente local:
+git clone https://github.com/seu-usuario/DESAFIO-BEEDOO.git
+
+#### 3. Navegar até a Pasta de Casos de Teste
+Vá até a pasta onde estão localizados os arquivos .feature:
+
+#### 4. Executar os Testes
+Execute os testes usando a ferramenta de sua preferência.
+
+***
 ## Decisões para Criação das User Stories
 
-Para criar esta User Story, foram considerados os seguintes pontos:
-- A necessidade de um administrador ter a capacidade de adicionar novos cursos à plataforma.
-- A importância de uma interface amigável e intuitiva para a criação de cursos.
-- A necessidade de validação de dados para garantir que as informações inseridas sejam completas e corretas.
-- A importância de feedback claro para o usuário sobre o sucesso ou falha na criação do curso.
+Foram considerados os seguintes pontos:
+- A necessidade de um administrador poder adicionar novos cursos.
+- Importância de uma interface amigável para a criação de cursos.
+- Necessidade de validação de dados para garantir informações completas e corretas.
+- Importância de feedback claro sobre o sucesso ou falha na criação do curso.
