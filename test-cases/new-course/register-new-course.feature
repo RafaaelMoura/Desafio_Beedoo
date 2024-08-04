@@ -17,7 +17,7 @@ Features: Cadastrando um novo curso
 
 Cenário 1: Válido acesso ao Formulário de Cadastro do Curso.
  - Dado que estou acessando como administrador
- - Quando eu clico no botão "CADASTRAR CURSO"
+ - Quando eu clico no botão "Cadastrar Curso"
  - Então devo ter acesso a um formulário para cadastrar um novo curso.
 
 
